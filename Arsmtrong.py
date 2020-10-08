@@ -9,3 +9,5 @@
      print("Armstrong number")
      else:
          print("Not an Armstrong number")
+      
+      print("Checking");
